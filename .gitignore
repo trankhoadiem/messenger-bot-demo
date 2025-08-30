@@ -1,0 +1,4 @@
+git clone https://github.com/<username>/messenger-bot-demo.git
+cd messenger-bot-demo
+npm init -y
+npm install express node-fetch dotenv body-parser
